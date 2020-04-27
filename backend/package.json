@@ -1,0 +1,15 @@
+{
+  "name": "oraproj",
+  "version": "1.0.0",
+  "description": "My DB Oracle project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Almas Tanayev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "oracledb": "^4.2.0"
+  }
+}
